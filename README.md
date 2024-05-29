@@ -1,6 +1,6 @@
 # Shark Health Tracker
 
-![Project Image](/image00000.png)
+![Project Image](/sharktraining.png)
 
 ## Introduction
 Welcome to **Project Shark Health**! This project is designed to provide a novel platform for researchers to efficiently calculate large quantities of shark healths digitally in an accurate manner. 
@@ -14,7 +14,6 @@ The health of shark populations is a strong indicator for oceanic ecosystems. Th
 
 ![Figure 1, connecting points](/sharkmeasure.png)
 
-![Figure representing training (combination of all methodologies)](/sharktraining.png)
 
 
 ### Technologies Used:
