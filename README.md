@@ -26,14 +26,16 @@ The health of shark populations is a strong indicator for oceanic ecosystems. Th
 
 ![Author Image](/image000000.png)
 
-Hello! I'm [Your Name], the creator of this project. I am a [brief description about yourself, e.g., "software developer with a passion for open-source projects"].
+Hello! I'm Ishaan Gupta, the creator of this project. I am a research intern at the CSU Monterey Bay Marine Biology Lab, and am an avid public speaker who advocates against environmental injustices. Specifcally, I have a love for solving ecological and natural disaster based problems with modern technology. 
 
 ### About Me:
-- Role: [Your Role]
-- Interests: [Your Interests]
-- Contact: [Your Contact Information]
+- Role: Research Intern @ CSUMB
+- Interests: Environmental Engineering (with a focus in Ecology and Disaster Prevention)
+- Contact: ishaangupta0408@gmail.com
 
 ## How to Navigate the Code
 
 The project structure is as follows:
+
+1) 
 
