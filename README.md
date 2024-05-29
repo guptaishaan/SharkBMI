@@ -12,15 +12,22 @@ The health of shark populations is a strong indicator for oceanic ecosystems. Th
    
 2) This repository also holds multiple "Occulation" folders. These are trained on a Convolution Neural Network, which are able to recgonize and point out 5 key points crucial to calculating shark health, along with a bounding box of the shark itself. This recursive calculation minimizes error using 3 different methods of analysis. As seen below, all 3 different methods can be used to calculate shark health:
 
-![Figure 1](/image00000.png)
+![Figure 1, connecting points](/sharkmeasure.png)
 
-![Figure 2](/image00000.png)
+![Figure representing training (combination of all methodologies)](/sharktraining.png)
 
 
 ### Technologies Used:
-- Technology 1
-- Technology 2
-- Technology 3
+
+![Basic visualization of our results](/resultsbasic.png)
+![Basic visualization of our results](/resultsdisplay.png)
+![Basic visualization of our results](/mainresult.png)
+![Basic visualization of our results](/rocboundry.png)
+
+The model’s performance was primarily evaluated using the mean Average Precision (mAP) at a 50% Intersection over Union (IoU) threshold. This metric is a standard in object detection tasks and provides a reliable measure of the model's accuracy in identifying the key anatomical points of sharks.
+
+Throughout the training and validation phases, loss functions were closely monitored. A steady decline in these functions was essential to confirm the model’s effective learning and convergence. A separate subset of the dataset, not used in the training phase, was employed for validation. This approach was critical to assess the model's ability to generalize its learning to new, unseen data.
+
 
 ## Author
 
