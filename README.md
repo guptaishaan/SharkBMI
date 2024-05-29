@@ -1,6 +1,6 @@
 # Shark Health Tracker
 
-![Project Image](path/to/project-image.png)
+![Project Image](/image000000.png)
 
 ## Introduction
 Welcome to **Project Shark Health**! This project is designed to provide a novel platform for researchers to efficiently calculate large quantities of shark healths digitally in an accurate manner. 
