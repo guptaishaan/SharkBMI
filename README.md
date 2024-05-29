@@ -1,6 +1,6 @@
 # Shark Health Tracker
 
-![Project Image](/image000000.png)
+![Project Image](/image00000.png)
 
 ## Introduction
 Welcome to **Project Shark Health**! This project is designed to provide a novel platform for researchers to efficiently calculate large quantities of shark healths digitally in an accurate manner. 
@@ -12,9 +12,9 @@ The health of shark populations is a strong indicator for oceanic ecosystems. Th
    
 2) This repository also holds multiple "Occulation" folders. These are trained on a Convolution Neural Network, which are able to recgonize and point out 5 key points crucial to calculating shark health, along with a bounding box of the shark itself. This recursive calculation minimizes error using 3 different methods of analysis. As seen below, all 3 different methods can be used to calculate shark health:
 
-![Figure 1](/image000000.png)
+![Figure 1](/image00000.png)
 
-![Figure 2](/image000000.png)
+![Figure 2](/image00000.png)
 
 
 ### Technologies Used:
