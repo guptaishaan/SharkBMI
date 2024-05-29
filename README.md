@@ -43,5 +43,7 @@ Hello! I'm Ishaan Gupta, the creator of this project. I am a research intern at 
 
 The project structure is as follows:
 
-1) 
+1) BinaryClass is a folder filled with the fully developed model to identify whether a given shark image is viable for analysis or not. The response here will be binary and can be sorted to a specifc location in the computer (change path name)
+
+2) OcculationValid, OcculationValid2, and PartialValid are all folders with high metrics of accuracy for keypoint pose detection on the shark body. The shark is labelled with all keypoints. An extra layer of verification is added here, where sharks with missing keypoints will not have that given post point annotated. 
 
