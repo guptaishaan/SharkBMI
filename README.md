@@ -27,18 +27,6 @@ The model’s performance was primarily evaluated using the mean Average Precisi
 
 Throughout the training and validation phases, loss functions were closely monitored. A steady decline in these functions was essential to confirm the model’s effective learning and convergence. A separate subset of the dataset, not used in the training phase, was employed for validation. This approach was critical to assess the model's ability to generalize its learning to new, unseen data.
 
-
-## Author
-
-![Author Image](/image000000.png)
-
-Hello! I'm Ishaan Gupta, the creator of this project. I am a research intern at the CSU Monterey Bay Marine Biology Lab, and am an avid public speaker who advocates against environmental injustices. Specifcally, I have a love for solving ecological and natural disaster based problems with modern technology. 
-
-### About Me:
-- Role: Research Intern @ CSUMB
-- Interests: Environmental Engineering (with a focus in Ecology and Disaster Prevention)
-- Contact: ishaangupta0408@gmail.com
-
 ## How to Navigate the Code
 
 The project structure is as follows:
